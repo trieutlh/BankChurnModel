@@ -2,8 +2,7 @@
 title: "Classification Analysis"
 author: "Le Hai Trieu Tran"
 date: "`r Sys.Date()`"
-output:
-  html_document: default
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
